@@ -1,0 +1,3 @@
+[submodule "secretservicemail"]
+	path = secretservicemail
+	url = https://github.com/jimjonesbabyfreshout/secretservicemail.git
